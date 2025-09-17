@@ -1,4 +1,3 @@
-"Exercício nível herói"
 # 🦸‍♂️ Desafio "Nível do Herói"
 
 Este repositório contém a solução do exercício **Nível do Herói**, proposto no Bootcamp da [DIO.me](https://www.dio.me).  
