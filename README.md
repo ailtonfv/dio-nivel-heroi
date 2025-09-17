@@ -24,3 +24,8 @@ Com base no valor de XP, o programa retorna o **nível** correspondente do heró
 - Python 3.x  
 - Jupyter Notebook  
 - Git & GitHub 
+---
+## ✨ Autor
+**Ailton Vendramini**  
+📌 Engenheiro eletricista e consultor em gestão estratégica.  
+💡 Atualmente estudando **banco de dados, Python e análise de dados aplicados ao setor público**.  
